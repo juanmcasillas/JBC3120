@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3-dev (77bc73e, 2022-05-18)"
+   sodipodi:docname="wiring.svg"
+   inkscape:export-filename="wiringX.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.3136303"
+     inkscape:cx="483.00717"
+     inkscape:cy="232.31888"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect31"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect30"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect29"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect28"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect27"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect26"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect25"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect24"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect23"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect22"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect21"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path1"
+       cx="96.774002"
+       cy="80.088829"
+       rx="50.945396"
+       ry="51.612801" />
+    <g
+       id="g3"
+       transform="matrix(0.55818691,-0.55818691,0.56000342,0.56000342,0.2688419,89.011869)"
+       style="stroke-width:1.26474">
+      <circle
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="path2"
+         cx="94.43808"
+         cy="78.197845"
+         r="7.0789175" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect2"
+         width="4.3381443"
+         height="10.162428"
+         x="92.269012"
+         y="60.956497" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect2-7"
+         width="4.3381443"
+         height="10.162428"
+         x="92.269012"
+         y="85.276764" />
+    </g>
+    <g
+       id="g3-2"
+       transform="matrix(0.39469775,0.68363656,-0.68586132,0.39598222,113.13238,18.741143)"
+       style="stroke-width:1.26474">
+      <circle
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="path2-9"
+         cx="94.43808"
+         cy="78.197845"
+         r="7.0789175" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect2-9"
+         width="4.3381443"
+         height="10.162428"
+         x="92.269012"
+         y="60.956497" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect2-7-8"
+         width="4.3381443"
+         height="10.162428"
+         x="92.269012"
+         y="85.276764" />
+    </g>
+    <g
+       id="g3-7"
+       transform="matrix(0.7893955,0,0,0.79196443,-3.5202362,-9.9649523)"
+       style="stroke-width:1.26474">
+      <g
+         id="g4"
+         transform="matrix(0.69966334,0.71215512,-0.71679779,0.69966334,84.41526,-43.768882)">
+        <circle
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+           id="path2-5"
+           cx="94.43808"
+           cy="78.197845"
+           r="7.0789175" />
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+           id="rect2-5"
+           width="4.3381443"
+           height="10.162428"
+           x="92.269012"
+           y="60.956497" />
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+           id="rect2-7-0"
+           width="4.3381443"
+           height="10.162428"
+           x="92.269012"
+           y="85.276764" />
+      </g>
+    </g>
+    <g
+       id="g3-7-7"
+       transform="matrix(0.55818691,-0.55818691,0.56000342,0.56000342,27.855947,60.888002)"
+       style="stroke-width:1.26474">
+      <circle
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="path2-5-7"
+         cx="94.43808"
+         cy="78.197845"
+         r="7.0789175" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect2-5-9"
+         width="4.3381443"
+         height="10.162428"
+         x="92.269012"
+         y="60.956497" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect2-7-0-7"
+         width="4.3381443"
+         height="10.162428"
+         x="92.269012"
+         y="85.276764" />
+    </g>
+    <g
+       id="g3-7-9"
+       transform="matrix(0.68363656,-0.39469775,0.39598222,0.68586132,-29.312718,83.371582)"
+       style="stroke-width:1.26474">
+      <circle
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="path2-5-4"
+         cx="94.43808"
+         cy="78.197845"
+         r="7.0789175" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect2-5-91"
+         width="4.3381443"
+         height="10.162428"
+         x="92.269012"
+         y="60.956497" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect2-7-0-5"
+         width="4.3381443"
+         height="10.162428"
+         x="92.269012"
+         y="85.276764" />
+    </g>
+    <g
+       id="g3-7-7-9"
+       transform="matrix(0.68363656,0.39469775,-0.39598222,0.68586132,93.738064,8.8225846)"
+       style="stroke-width:1.26474">
+      <circle
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="path2-5-7-8"
+         cx="94.43808"
+         cy="78.197845"
+         r="7.0789175" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect2-5-9-3"
+         width="4.3381443"
+         height="10.162428"
+         x="92.269012"
+         y="60.956497" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.379421;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect2-7-0-7-0"
+         width="4.3381443"
+         height="10.162428"
+         x="92.269012"
+         y="85.276764" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="70.132347"
+       y="53.703453"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.3"
+         x="70.132347"
+         y="53.703453">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="123.65978"
+       y="53.723213"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.3"
+         x="123.65978"
+         y="53.723213">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="95.885002"
+       y="81.827324"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:0.3"
+         x="95.885002"
+         y="81.827324">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="65.025246"
+       y="101.09293"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.3"
+         x="65.025246"
+         y="101.09293">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="95.894875"
+       y="116.02567"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.3"
+         x="95.894875"
+         y="116.02567">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="126.81883"
+       y="101.09293"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:0.3"
+         x="126.81883"
+         y="101.09293">2</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect9"
+       width="11.492443"
+       height="13.953253"
+       x="91.027779"
+       y="14.580712" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="71.765495"
+       y="104.02361"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="stroke-width:0.3"
+         x="71.765495"
+         y="104.02361">Not wired</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="113.15437"
+       y="62.02277"
+       id="text10-3"><tspan
+         sodipodi:role="line"
+         id="tspan10-1"
+         style="stroke-width:0.3"
+         x="113.15437"
+         y="62.02277">Not wired</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="77.890053"
+       y="51.795204"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.3;fill:#008000"
+         x="77.890053"
+         y="51.795204">Green</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:#d40000;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="95.178429"
+       y="73.364792"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="fill:#d40000;stroke-width:0.3"
+         x="95.178429"
+         y="73.364792">Red</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:#a05a2c;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="103.17951"
+       y="117.95367"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="stroke-width:0.3;fill:#a05a2c"
+         x="103.17951"
+         y="117.95367">Brown</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="133.79945"
+       y="100.1676"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="stroke-width:0.3;fill:#0000ff"
+         x="133.79945"
+         y="100.1676">Blue</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="77.542236"
+       y="56.150295"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="fill:#000000;stroke-width:0.3"
+         x="77.542236"
+         y="56.150295">Thermocouple back</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:0.3"
+         x="77.542236"
+         y="62.323921"
+         id="tspan16">(red sleeve) W1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="103.019"
+       y="76.600136"
+       id="text15-3"><tspan
+         sodipodi:role="line"
+         id="tspan15-9"
+         style="fill:#000000;stroke-width:0.3"
+         x="103.019"
+         y="76.600136">Thermocouple tip</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:0.3"
+         x="103.019"
+         y="82.773758"
+         id="tspan16-0">(no sleeve) W2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="133.60631"
+       y="105.48204"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="stroke-width:0.3"
+         x="133.60631"
+         y="105.48204">Resistance</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.3"
+         x="133.60631"
+         y="111.65566"
+         id="tspan20">(yellowish sleeve) W4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="103.37029"
+       y="122.72742"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         style="stroke-width:0.3"
+         x="103.37029"
+         y="122.72742">Resistance </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.3"
+         x="103.37029"
+         y="128.90105"
+         id="tspan19">(green sleeve) W3</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect20"
+       width="58.46508"
+       height="16.810703"
+       x="137.20235"
+       y="16.124552" />
+    <ellipse
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path20"
+       cx="137.20235"
+       cy="24.529903"
+       rx="1.8252814"
+       ry="2.0012724" />
+    <ellipse
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path20-3"
+       cx="191.43616"
+       cy="24.529903"
+       rx="1.8252814"
+       ry="2.0012724" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill;stroke-dasharray:4,1;stroke-dashoffset:0"
+       d="m 137.20234,16.124552 -15.44471,8.405351"
+       id="path21"
+       inkscape:path-effect="#path-effect21"
+       inkscape:original-d="m 137.20234,16.124552 -15.44471,8.405351 15.44472,8.405354" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 147.8694,28.326029 v 3.351282"
+       id="path22"
+       inkscape:path-effect="#path-effect22"
+       inkscape:original-d="m 147.8694,28.326029 v 3.351282" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 201.27099,31.677311 H 147.8694"
+       id="path23"
+       inkscape:path-effect="#path-effect23"
+       inkscape:original-d="M 201.27099,31.677311 H 147.8694" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 147.8694,28.326029 h 4.11307"
+       id="path24"
+       inkscape:path-effect="#path-effect24"
+       inkscape:original-d="m 147.8694,28.326029 h 4.11307 l 2.40153,-2.481003" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 156.32809,30.00167 154.384,25.845026"
+       id="path25"
+       inkscape:path-effect="#path-effect25"
+       inkscape:original-d="M 156.32809,30.00167 154.384,25.845026" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 164.79063,30.00167 1.64425,-2.130486"
+       id="path26"
+       inkscape:path-effect="#path-effect26"
+       inkscape:original-d="m 164.79063,30.00167 1.64425,-2.130486" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 201.27099,27.779538 -34.83611,0.09165"
+       id="path27"
+       inkscape:path-effect="#path-effect27"
+       inkscape:original-d="m 201.27099,27.779538 -34.83611,0.09165" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 139.02763,24.529903 h 2.77693"
+       id="path28"
+       inkscape:path-effect="#path-effect28"
+       inkscape:original-d="m 139.02763,24.529903 h 2.77693" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 141.80456,39.911123 59.46643,-0.114359"
+       id="path29"
+       inkscape:path-effect="#path-effect29"
+       inkscape:original-d="m 141.80456,39.911123 59.46643,-0.114359" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 141.80456,39.911123 V 24.529903"
+       id="path30"
+       inkscape:path-effect="#path-effect30"
+       inkscape:original-d="M 141.80456,39.911123 V 24.529903" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 193.26144,24.529903 h 8.00994"
+       id="path31"
+       inkscape:path-effect="#path-effect31"
+       inkscape:original-d="m 193.26144,24.529903 h 8.00994" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="147.71941"
+       y="10.292267"
+       id="text31"><tspan
+         sodipodi:role="line"
+         id="tspan31"
+         style="stroke-width:0.3"
+         x="147.71941"
+         y="10.292267">Heating Element (iron)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="160.42348"
+       y="45.079758"
+       id="text33"><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         style="stroke-width:0.3"
+         x="160.42348"
+         y="45.079758">W2 (none) -&gt; Wire Red (6)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="163.05373"
+       y="21.345179"
+       id="text33-8"><tspan
+         sodipodi:role="line"
+         id="tspan33-8"
+         style="stroke-width:0.3"
+         x="163.05373"
+         y="21.345179">W1 (red) -&gt; Wire Green (5)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="202.91481"
+       y="29.387787"
+       id="text34"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         style="stroke-width:0.3"
+         x="202.91481"
+         y="29.387787">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="202.78146"
+       y="33.97876"
+       id="text35"><tspan
+         sodipodi:role="line"
+         id="tspan35"
+         style="stroke-width:0.3"
+         x="202.78146"
+         y="33.97876">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="158.61526"
+       y="52.710739"
+       id="text36"><tspan
+         sodipodi:role="line"
+         id="tspan36"
+         style="stroke-width:0.3"
+         x="158.61526"
+         y="52.710739">A: W3 (green) -&gt; Wire Brown (3)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="158.61526"
+       y="58.883583"
+       id="text36-3"><tspan
+         sodipodi:role="line"
+         id="tspan36-5"
+         style="stroke-width:0.3"
+         x="158.61526"
+         y="58.883583">B: W4 (yellow) -&gt; Wire Blue (2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       x="48.831085"
+       y="14.430712"
+       id="text40"><tspan
+         sodipodi:role="line"
+         id="tspan40"
+         style="stroke-width:0.3;stroke-dasharray:none"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;font-family:DINCond-Regular;-inkscape-font-specification:'DINCond-Regular Bold';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       x="44.485466"
+       y="19.140551"
+       id="text41"><tspan
+         sodipodi:role="line"
+         id="tspan41"
+         style="stroke-width:0.3"
+         x="44.485466"
+         y="19.140551">The schema represents</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.3"
+         x="44.485466"
+         y="25.314177"
+         id="tspan42">the connector at </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.3"
+         x="44.485466"
+         y="31.487801"
+         id="tspan43">station's side.</tspan></text>
+  </g>
+</svg>
