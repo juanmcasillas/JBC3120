@@ -1,6 +1,7 @@
 # JBC3120
 
 <img src="img/jbc3120_station.jpeg" width="500px"></img>
+<img src="img/ref.jpg" width="500px"></img>
 
 How to fix the "err 3" in a JBC 3120 soldering station. I found a JBC 3120 soldering station in very good shape,
 but it reports `err 3`: Looking the station manual, it reports _"There is no thermocouple reading. Possible causes: The soldering iron is not connected to the unit, thermocouple open or soldering iron cord broken"_ After inspecting the
